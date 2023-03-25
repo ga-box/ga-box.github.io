@@ -1,0 +1,50 @@
+html{
+    font-size:10px;
+    font-family:"Open Sans",sans-serif;
+}
+html{
+    background-color:black;
+}
+
+h1{
+    font-size:60px;
+    text-align:center;
+}
+p,li{
+    font-size:16px;
+    line-height:2;
+    letter-spacing:1px;
+    color:orange;
+}
+body{
+    width:1200px;
+    margin:0auto;
+    background-color:rgb(49, 47, 47);
+    padding:0 20 px20px20px;
+    border:5px solid grey;
+}
+p{
+    color:orange;
+}
+h1{
+    margin:0;
+    padding:20px0;
+    color:orange;
+    text-shadow:3px 3px 1px black;
+}
+h2{
+    margin:0;
+    padding:20px0;
+    color:orange;
+    text-shadow:3px 3px 1px black;
+}
+h3{
+    margin:0;
+    padding:20px0;
+    color:orange;
+    text-shadow:3px 3px 1px black;
+}
+img{
+    display:block;
+    margin:0 auto;
+}
